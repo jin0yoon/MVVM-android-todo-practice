@@ -5,5 +5,5 @@ android/architecture-samples-todo-mvvm-databinding/todoapp 코드 분석하는 r
 
 <package structure>
   <div>
-<img src="https://user-images.githubusercontent.com/64063225/81242710-cf688500-9048-11ea-9b07-cb0074e46d88.PNG" width="90%"></img>
+<img src="https://user-images.githubusercontent.com/64063225/81242710-cf688500-9048-11ea-9b07-cb0074e46d88.PNG" width="10%"></img>
 
